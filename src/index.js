@@ -17,7 +17,7 @@ export class OlderCoaster extends React.Component {
     var ul = React.createElement('ul', {},
       [
         React.createElement('li', {}, 'Anges'),
-        React.createElement('li', {}. 'Muriel')
+        React.createElement('li', {}, 'Muriel')
       ]
     );
     var older = React.createElement('div', {className: 'oldercoaster', []});
