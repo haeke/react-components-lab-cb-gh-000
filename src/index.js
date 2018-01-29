@@ -15,8 +15,16 @@ export class OlderCoaster extends React.Component {
     React.createElement();
   }
 };
-export class InFrontOfYou extends React.Component {};
-export class ButcherShop extends React.Component {};
+export class InFrontOfYou extends React.Component {
+  render() {
+    React.createElement();
+  }
+};
+export class ButcherShop extends React.Component {
+  render() {
+    React.createElement();
+  }
+};
 
 ReactDOM.render(
   React.createElement('div', {}, [
