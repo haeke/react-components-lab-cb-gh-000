@@ -12,7 +12,15 @@ const BUTCHER_PRODUCTS = [
 // Define these exported classes
 export class OlderCoaster extends React.Component {
   render() {
-    React.createElement();
+    var paraOne = React.createElement('p', {}, 'Two grannies having the time of their life!');
+    var paraTwo = React.createElement('p', {}, 'Passangers:');
+    var ul = React.createElement('ul', {},
+      [
+        React.createElement('li', {}, 'Anges'),
+        React.createElement('li', {}. 'Muriel')
+      ]
+    );
+    var older = React.createElement('div', {className: 'oldercoaster', []});
   }
 };
 export class InFrontOfYou extends React.Component {
