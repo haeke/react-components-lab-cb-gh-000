@@ -23,6 +23,7 @@ export class OlderCoaster extends React.Component {
     var older = React.createElement('div', {className: 'oldercoaster', []});
   }
 };
+
 export class InFrontOfYou extends React.Component {
   render() {
     React.createElement();
